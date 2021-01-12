@@ -2,3 +2,4 @@ image_search
 .ipynb_checkpoints
 training_data.csv
 test_data.csv
+index*
