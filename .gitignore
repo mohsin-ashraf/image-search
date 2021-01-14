@@ -1,5 +1,5 @@
 image_search
 .ipynb_checkpoints
-training_data.csv
-test_data.csv
+training_data.*
+test_data.*
 index*
